@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982295919111",
+    "project_id": "mdlab4andrushkov",
+    "storage_bucket": "mdlab4andrushkov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982295919111:android:1f36c5c108a02bbeca08a2",
+        "android_client_info": {
+          "package_name": "com.andrushko.lab4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982295919111-h5qn0ototbj32fanv5vjqqmgmeqc7s6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWC5c79hMRZNxb-SAlyCFUhG7tyzUIR3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982295919111-h5qn0ototbj32fanv5vjqqmgmeqc7s6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
